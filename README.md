@@ -7,4 +7,6 @@
 * Used Stateflow to collect data from ViewModels.
 * Retrofit2 library is used for fetching data and GSON for parsing JSON response.
 * Added unit tests for Repository and ViewModel
+* Written Unit tests using JUnit and Mockito
+  
   
